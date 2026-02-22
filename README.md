@@ -1,7 +1,4 @@
 <div align="center">
-  <h2>Introduction</h2>
-  <p>Welcome to my profile! I'm Yuki Hashimoto, a data scientist and full-stack engineer based in Japan. I specialize in building robust backend systems using Python, Kotlin, Scala, and Go, and crafting intuitive frontend interfaces with TypeScript. I'm also passionate about leveraging data-driven insights to drive impactful results.</p>
-  
   <h2>Tech Stack</h2>
   <h3>Language</h3>
   <img src=https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white>
